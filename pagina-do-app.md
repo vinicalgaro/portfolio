@@ -19,7 +19,7 @@ Na hora de tocar, um modo de prática interativo exibe tudo o que você precisa 
 
 ### Screenshots
 
-Imagens do Guitar Notebook:
+Algumas Imagens do Guitar Notebook:
 
 ![Tela de Início]({{ '/assets/images/app/ss_inicial.png' | relative_url }})
 ![Tela de Prática]({{ '/assets/images/app/ss_playsong.png' | relative_url }})
