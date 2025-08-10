@@ -21,16 +21,16 @@ Na hora de tocar, um modo de prática interativo exibe tudo o que você precisa 
 
 Imagens do Guitar Notebook:
 
-![Tela de Início](/assets/images/app/ss_inicial.png)
-![Tela de Prática](/assets/images/app/ss_playsong.png)
-![Opções para Prática](/assets/images/app/ss_opcoes.png)
-![Configurações](/assets/images/app/ss_settings.png)
-![Cadastro de Música](/assets/images/app/ss_cadastro_musica_p2.png)
+![Tela de Início]({{ '/assets/images/app/ss_inicial.png' | relative_url }})
+![Tela de Prática]({{ '/assets/images/app/ss_playsong.png' | relative_url }})
+![Opções para Prática]({{ '/assets/images/app/ss_opcoes.png' | relative_url }})
+![Configurações]({{ '/assets/images/app/ss_settings.png' | relative_url }})
+![Cadastro de Música]({{ '/assets/images/app/ss_cadastro_musica_p2.png' | relative_url }})
 
 ---
 
 ## Links
 
 * **[Ver o código no GitHub](https://github.com/vinicalgaro/Guitar-Notebook)**
-* **[Baixar na Google Play Store (coming soon)]**
+* **Baixar na Google Play Store (coming soon...)**
 * **[Versão Web](https://vinicalgaro.github.io/Guitar-Notebook/)**
