@@ -19,7 +19,7 @@ Na hora de tocar, um modo de prática interativo exibe tudo o que você precisa 
 
 ### Screenshots
 
-Aqui você pode exibir as imagens que subiu para a pasta `assets/images/app`.
+Imagens do Guitar Notebook:
 
 ![Tela de Início](/assets/images/app/ss_inicial.png)
 ![Tela de Prática](/assets/images/app/ss_playsong.png)
@@ -32,5 +32,5 @@ Aqui você pode exibir as imagens que subiu para a pasta `assets/images/app`.
 ## Links
 
 * **[Ver o código no GitHub](https://github.com/vinicalgaro/Guitar-Notebook)**
-* **[Baixar na Google Play Store](coming soon...)**
+* **[Baixar na Google Play Store (coming soon)]**
 * **[Versão Web](https://vinicalgaro.github.io/Guitar-Notebook/)**
