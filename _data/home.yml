@@ -1,80 +1,25 @@
+# Entradas da barra de navegação (topo da página)
 navbar_entries:
-  - title: about
+  - title: Sobre Mim
     url: about
 
-  - title: blog
-    url: blog
+  - title: Currículo (PDF)
+    url: /curriculoViniciusCalgaroPTBR.pdf
 
-  - title: website
-    url: https://www.abhinav.co
-
+# Seção de Portfólio - Mantida como você criou
 project_entries:
   - title: Guitar Notebook
     url: /pagina-do-app
     desc: Aplicativo para organização, estudo e prática de violão (e outros instrumentos de corda). Desenvolvido em Flutter (suporte para nativos e web). Publicado na PlayStore.
     highlight: Mobile
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
-
+# Entradas do rodapé (final da página)
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/viniciuscalgaro/
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: GitHub
+    url: https://github.com/vinicalgaro
 
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
-
-misc_entries:
-  - title: this is an example vertical list
-    url: false
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
-
-
+  - title: E-mail
+    url: mailto:vinicalgaro@outlook.com
