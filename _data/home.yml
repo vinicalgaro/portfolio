@@ -4,7 +4,7 @@ navbar_entries:
     url: about
 
   - title: Currículo (PDF)
-    url: /curriculoViniciusCalgaroPTBR.pdf
+    url: curriculoViniciusCalgaroPTBR.pdf
 
 # Seção de Portfólio - Mantida como você criou
 project_entries:
