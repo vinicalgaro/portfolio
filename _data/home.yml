@@ -9,7 +9,7 @@ navbar_entries:
 # Seção de Portfólio - Mantida como você criou
 project_entries:
   - title: Guitar Notebook
-    url: /pagina-do-app
+    url: pagina-do-app
     desc: Aplicativo para organização, estudo e prática de violão (e outros instrumentos de corda). Desenvolvido em Flutter (suporte para nativos e web). Publicado na PlayStore.
     highlight: Mobile
 
