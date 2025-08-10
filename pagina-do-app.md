@@ -17,20 +17,20 @@ Na hora de tocar, um modo de prática interativo exibe tudo o que você precisa 
 * Componentes reutiláveis
 * SOLID
 
+## Links
+
+* **[Ver o código no GitHub](https://github.com/vinicalgaro/Guitar-Notebook)**
+* **[Versão Web](https://vinicalgaro.github.io/Guitar-Notebook/)**
+* **Baixar na Google Play Store (coming soon...)**
+
 ### Screenshots
 
 Algumas Imagens do Guitar Notebook:
 
-![Tela de Início]({{ '/assets/images/app/ss_inicial.png' | relative_url }})
-![Tela de Prática]({{ '/assets/images/app/ss_playsong.png' | relative_url }})
-![Opções para Prática]({{ '/assets/images/app/ss_opcoes.png' | relative_url }})
-![Configurações]({{ '/assets/images/app/ss_settings.png' | relative_url }})
-![Cadastro de Música]({{ '/assets/images/app/ss_cadastro_musica_p2.png' | relative_url }})
+<img src="{{ '/assets/images/app/ss_inicial.png' | relative_url }}" alt="Tela de Início" style="max-width: 450px; display: block; margin: 10px auto;">
+<img src="{{ '/assets/images/app/ss_playsong.png' | relative_url }}" alt="Tela de Prática" style="max-width: 450px; display: block; margin: 10px auto;">
+<img src="{{ '/assets/images/app/ss_opcoes.png' | relative_url }}" alt="Opções para Prática" style="max-width: 450px; display: block; margin: 10px auto;">
+<img src="{{ '/assets/images/app/ss_settings.png' | relative_url }}" alt="Configurações" style="max-width: 450px; display: block; margin: 10px auto;">
+<img src="{{ '/assets/images/app/ss_cadastro_musica_p2.png' | relative_url }}" alt="Cadastro de Música" style="max-width: 450px; display: block; margin: 10px auto;">
 
 ---
-
-## Links
-
-* **[Ver o código no GitHub](https://github.com/vinicalgaro/Guitar-Notebook)**
-* **Baixar na Google Play Store (coming soon...)**
-* **[Versão Web](https://vinicalgaro.github.io/Guitar-Notebook/)**
