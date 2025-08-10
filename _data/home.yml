@@ -3,8 +3,11 @@ navbar_entries:
   - title: Sobre Mim
     url: about
 
-  - title: Currículo (PDF)
+  - title: Currículo (Português)
     url: curriculoViniciusCalgaroPTBR.pdf
+
+  - title: Currículo (English)
+    url: curriculoViniciusCalgaroENG.pdf
 
 # Seção de Portfólio - Mantida como você criou
 project_entries:
