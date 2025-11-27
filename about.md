@@ -7,7 +7,7 @@ Olá! Eu sou o **Vinícius Calgaro**, um Engenheiro de Software Mobile com 4 ano
 
 Minha atuação é focada em resolver desafios de engenharia, como a integração profunda entre plataformas (**Platform Channels**, **Services**, **Broadcasts**) e a modernização de arquiteturas legadas para padrões escaláveis como **Clean Architecture** e **MVVM**.
 
-Atualmente, lidero o desenvolvimento de soluções críticas para o varejo (PDVs), garantindo alta disponibilidade e performance. Além do código, tenho forte viés de Produto, utilizando **Design Systems** para garantir UI/UX consistente e métricas de dados para tomada de decisão.
+ Além do código, tenho forte viés de Produto, utilizando **Design Systems** para garantir UI/UX consistente e métricas de dados para tomada de decisão.
 
 ### Minha Stack Principal:
 * **Mobile Híbrido:** Flutter (Mobile/Web), Dio, Provider/Cubit, Testes Automatizados.
