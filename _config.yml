@@ -2,30 +2,30 @@
 title: Vinícius Calgaro
 author: Vinícius Calgaro
 url: https://vinicalgaro.github.io/portfolio/ # URL raiz do seu site
-description: > # Descrição que aparecerá nos buscadores e no topo do site
-  Desenvolvedor mobile com 4 anos de experiência em Android, Java e Flutter/Dart. Apaixonado por tecnologia, aprendizado contínuo e pela criação de soluções eficientes.
+description: > 
+  Desenvolvedor Mobile Pleno e Especialista em Flutter & Android Nativo. Foco em Engenharia de Software, Arquitetura Limpa, Jetpack Compose e Soluções Híbridas Complexas.
 
 # Configurações do tema Moonwalk
 remote_theme: abhinavs/moonwalk
 
 theme_config:
-  appearance: "auto" # "light", "dark" ou "auto" para se adaptar ao sistema
-  appearance_toggle: true # Permite ao usuário alternar o tema
-  back_home_text: "home" # Texto do link para voltar à página inicial
-  date_format: "%d/%m/%Y" # Formato de data
-  show_description: true # Exibe a descrição do site
-  show_navbar: true # Exibe a barra de navegação
-  show_footer: true # Exibe o rodapé
-  show_copyright: true # Exibe o aviso de copyright no rodapé
+  appearance: "auto" # "light", "dark" ou "auto"
+  appearance_toggle: true
+  back_home_text: "home"
+  date_format: "%d/%m/%Y"
+  show_description: true
+  show_navbar: true
+  show_footer: true
+  show_copyright: true
 
-  # Títulos das seções na página inicial
+  # Títulos das seções
   home:
-    title_projects: Portfólio
-    title_blog: Blog # Você pode desativar a exibição de posts no futuro se não for usar
+    title_projects: Projetos de Destaque
+    title_blog: Blog
 
-  # Opções de exibição de posts
-  show_projects: true # Mostra a seção de portfólio
-  show_blog: false # Mude para 'true' se decidir ter um blog
+  # Opções de exibição
+  show_projects: true
+  show_blog: false 
   show_reading_time: true
   show_tags: true
 

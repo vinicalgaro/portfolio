@@ -3,10 +3,17 @@ layout: post
 title: Sobre Mim
 ---
 
-Olá! Eu sou o Vinícius Calgaro, um desenvolvedor mobile com 4 anos de experiência construindo e mantendo aplicações em **Flutter/Dart**, **Android Nativo** e **Java**.
+Olá! Eu sou o **Vinícius Calgaro**, um Engenheiro de Software Mobile com 4 anos de experiência, especializado na construção de ecossistemas complexos utilizando **Flutter** e **Android Nativo**.
 
-Minha carreira tem sido focada no desenvolvimento de soluções comerciais complexas, incluindo sistemas de ponto de venda (PDV) e terminais de autoatendimento, onde trabalhei na integração de APIs, sistemas de mensageria como **ActiveMQ** e na orquestração de serviços com **Docker** e **Spring Boot**.
+Minha atuação é focada em resolver desafios de engenharia, como a integração profunda entre plataformas (**Platform Channels**, **Services**, **Broadcasts**) e a modernização de arquiteturas legadas para padrões escaláveis como **Clean Architecture** e **MVVM**.
 
-Sou guiado pelos princípios de **Clean Code** e **SOLID** e tenho experiência com padrões como **MVC** e **MVVM** para criar código limpo e sustentável. Sou obcecado por aprender e evoluir constantemente, sempre com um espírito colaborativo e muita atenção aos detalhes para entregar o melhor resultado possível.
+Atualmente, lidero o desenvolvimento de soluções críticas para o varejo (PDVs), garantindo alta disponibilidade e performance. Além do código, tenho forte viés de Produto, utilizando **Design Systems** para garantir UI/UX consistente e métricas de dados para tomada de decisão.
 
-Sinta-se à vontade para explorar meu projeto e entrar em contato!
+### Minha Stack Principal:
+* **Mobile Híbrido:** Flutter (Mobile/Web), Dio, Provider/Cubit, Testes Automatizados.
+* **Android Moderno:** Kotlin/Java, Jetpack Compose, Coroutines & Flow, Hilt, Room.
+* **Engenharia:** CI/CD (GitHub Actions), Docker, AWS, Multi-repo Management.
+
+Sou movido pela qualidade de código e pela busca constante de tecnologias que elevem o nível dos produtos que construo.
+
+Sinta-se à vontade para explorar meus projetos ou entrar em contato!

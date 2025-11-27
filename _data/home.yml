@@ -4,17 +4,22 @@ navbar_entries:
     url: about
 
   - title: CV (Português)
-    url: curriculoViniciusCalgaroPTBR.pdf
+    url: Vinicius-Calgaro-CV.pdf
 
   - title: CV (English)
-    url: curriculoViniciusCalgaroENG.pdf
+    url: Vinicius-Calgaro-CV-ENG.pdf
 
-# Seção de Portfólio - Mantida como você criou
+# Seção de Portfólio
 project_entries:
+  - title: Cidarte (Modern Android)
+    url: cidarte
+    desc: Aplicação nativa Android 100% declarativa com Jetpack Compose. Arquitetura Clean/MVVM, Hilt, Flow e animações 3D complexas.
+    highlight: Kotlin / Compose
+
   - title: Guitar Notebook
-    url: pagina-do-app
-    desc: Aplicativo para organização, estudo e prática de violão (e outros instrumentos de corda). Desenvolvido em Flutter (suporte para nativos e web). Publicado na PlayStore.
-    highlight: Mobile
+    url: guitar-notebook
+    desc: Ferramenta Cross-platform para músicos. CI/CD automatizado, persistência híbrida e Design System responsivo.
+    highlight: Flutter / DevOps
 
 # Entradas do rodapé (final da página)
 footer_entries:
