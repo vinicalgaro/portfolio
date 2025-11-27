@@ -11,7 +11,7 @@ navbar_entries:
 
 # Seção de Portfólio
 project_entries:
-  - title: Cidarte (Modern Android)
+  - title: Cidarte
     url: cidarte
     desc: Aplicação nativa Android 100% declarativa com Jetpack Compose. Arquitetura Clean/MVVM, Hilt, Flow e animações 3D complexas.
     highlight: Kotlin / Compose

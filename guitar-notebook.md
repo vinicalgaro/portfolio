@@ -23,7 +23,7 @@ Veja o aplicativo em funcionamento:
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <div style="position: relative; width: 100%; max-width: 315px; aspect-ratio: 9/16; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     <iframe 
-      src="https://www.youtube.com/embed/vjfxVff1M9E" 
+      src="https://www.youtube.com/embed/UPpffsrn4GA" 
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
       frameborder="0" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
