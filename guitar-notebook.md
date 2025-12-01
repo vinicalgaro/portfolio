@@ -36,6 +36,6 @@ Veja o aplicativo em funcionamento:
 
 * **[Ver código no GitHub](https://github.com/vinicalgaro/Guitar-Notebook)**
 * **[Acessar Versão Web](https://vinicalgaro.github.io/Guitar-Notebook/)**
-* <span style="opacity: 0.6">Baixar na Play Store (Em processo de publicação)</span>
+* **[Baixar na PlayStore](https://play.google.com/store/apps/details?id=com.vinicalgaro.guitarnotebook)**
 
 ---
